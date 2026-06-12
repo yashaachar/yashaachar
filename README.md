@@ -57,6 +57,18 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/yashaachar/yashaachar/output/github-contribution-grid-snake.svg)
+
+</div>
+
+> 💡 This animates your contribution graph as a snake eating your commits! Setup steps are below.
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
