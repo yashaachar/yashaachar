@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Yasha 👋
-
-### AI/ML Engineering Student | Aspiring Software Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Yasha+%F0%9F%91%8B;AI%2FML+Engineering+Student;Aspiring+Software+Engineer;200%2B+DSA+Problems+Solved+in+C%2B%2B" alt="Typing SVG" />
 
 </div>
 
@@ -14,6 +12,7 @@
 - 💻 Building projects across AI systems, backend, and full-stack dev
 - 🧠 200+ DSA problems solved in C++, sharpening problem-solving daily
 - 🎯 Actively looking for **Software Engineering Internships**
+- ⚡ Fun fact: I once won a People's Choice Award at a hackathon
 
 ---
 
@@ -70,5 +69,7 @@
 <div align="center">
 
 ### 💬 Open to internships • collaborations
+
+![Profile Views](https://komarev.com/ghpvc/?username=yashaachar&color=blue)
 
 </div>
