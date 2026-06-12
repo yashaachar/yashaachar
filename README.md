@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Hey,%20I'm%20Yasha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineering+Student;Aspiring+Software+Engineer;200%2B+DSA+Problems+Solved+in+C%2B%2B;Open+to+SWE+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yasha+%F0%9F%91%8B;AI%2FML+Engineering+Student;Aspiring+Software+Engineer;200%2B+DSA+Problems+Solved+in+C%2B%2B;Open+to+SWE+Internships" alt="Typing SVG" />
 
 </div>
 
