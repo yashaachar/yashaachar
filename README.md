@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yasha+%F0%9F%91%8B;AI%2FML+Engineering+Student;Aspiring+Software+Engineer;Building+AI-Powered+Developer+Tools" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Hey,%20I'm%20Yasha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/🎓-3rd%20Year%20AI%2FML%20Student-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/🎯-Open%20to%20SWE%20Internships-success?style=flat-square" />
-<img src="https://img.shields.io/badge/📍-Bangalore%2C%20India-informational?style=flat-square" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineering+Student;Aspiring+Software+Engineer;200%2B+DSA+Problems+Solved+in+C%2B%2B;Open+to+SWE+Internships" alt="Typing SVG" />
 
 </div>
 
@@ -14,12 +10,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a third-year AI/ML Engineering student who enjoys building things end-to-end — from AI pipelines and developer tools to algorithm-driven systems. I've solved 200+ DSA problems in C++ and I'm currently deepening my understanding of system design while applying for SWE internships.
+I'm a third-year AI/ML Engineering student who loves building things end-to-end — AI pipelines, developer tools, and algorithm-driven systems. I've solved 200+ DSA problems in C++ and I'm currently deepening my system design knowledge while applying for SWE internships.
 
-- 🔭 Currently building **AI-powered developer tooling** (CodeSentinel, Semantic Code Search)
+- 🔭 Currently building **AI-powered developer tooling**
 - 🌱 Currently learning **system design fundamentals**
 - 🏆 Won a **People's Choice Award** at a hackathon
-- 💬 Ask me about Python, C++, FastAPI, or DSA
+- 📍 Based in Bangalore, India
 
 ---
 
@@ -100,10 +96,13 @@ O(1) LRU and LFU cache implementations from scratch.
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashaachar15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasha-v-achar/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashaachar)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yashaachar&color=blue&style=flat-square&label=Profile+Views)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=100&section=footer" />
