@@ -14,7 +14,6 @@
 - 🎓 3rd-year B.E. in Artificial Intelligence & Machine Learning
 - 💻 I love building things — AI tools, backend systems, full-stack apps
 - 🧠 200+ DSA problems solved in C++ and counting
-- 🏆 Won a People's Choice Award at a hackathon
 - 🎯 Looking for my first **Software Engineering Internship**
 
 ---
